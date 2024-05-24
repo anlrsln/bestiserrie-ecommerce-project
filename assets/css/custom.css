@@ -1,0 +1,21 @@
+#navbar-bg {
+  background-color: #653505;
+}
+
+.item-count-input {
+  width: 50;
+  text-align: center;
+}
+
+td {
+  vertical-align: middle;
+}
+
+tfoot th {
+  padding: 20px;
+  background-color: #cccccc;
+}
+
+table {
+  box-shadow: 0 0 8px rgba(5, 5, 5, 0.3);
+}
